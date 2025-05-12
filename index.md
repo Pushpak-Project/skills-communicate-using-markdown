@@ -2,4 +2,6 @@
 ## Let me add some more headers in this.
 ### This is h3 header.
 
-Added the code in markdown
+### Now, add the the image in this file :
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
