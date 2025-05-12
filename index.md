@@ -5,3 +5,10 @@
 ### Now, add the the image in this file :
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+## Now, add the correct code of javascript in this:
+
+``` javascript
+var myVar = "Hello, world!";
+```
